@@ -4,13 +4,13 @@ int main()
 {
 int num;
 scanf("%d",&num);
-if(n>0)
+if(num>0)
 {
-printf("The num is positive");
+printf(" positive");
 }
-else if(n<0)
+else if(num<0)
 {
-printf("The num is negative");
+printf("negative");
 }
 else
 {
