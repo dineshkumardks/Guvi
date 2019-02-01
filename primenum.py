@@ -5,4 +5,4 @@ for i in range(2,p):
 		break
 	else:
 		print(p," is prime number")
-     break
+                break
