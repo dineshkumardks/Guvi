@@ -1,8 +1,5 @@
-number = int(input("  "))
-exponent = int(input("  "))
-power = 1
+n=int(raw_input()) 
+k=int(raw_input())
+p=n**k
+print(p)
 
-for i in range(1, exponent + 1):
-    power = power * number
-    
-print("The Result of {0} Power {1} = {2}".format(number, exponent, power))
