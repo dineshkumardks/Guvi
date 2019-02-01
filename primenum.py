@@ -1,6 +1,6 @@
 p=int(input())
 for i in range(2,p):
-	if (a%i==0):
+	if (p%i==0):
 		print(p," is not a prime number")
 		break
 	else:
