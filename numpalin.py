@@ -1,5 +1,5 @@
 a=int(input(""))
-tmp=n
+tmp=a
 rev=0
 while(a>0):
     dig=a%10
