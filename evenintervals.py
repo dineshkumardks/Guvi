@@ -12,7 +12,7 @@ if(m.isnumeric()):
 			else:
 				even.append(i)
 		
-		print(even)
+		print(*even)
 	else:
 		print("invalid")
 else:
