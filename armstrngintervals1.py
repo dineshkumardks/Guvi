@@ -1,5 +1,5 @@
-a,b,=map(int,input().split())
-for i in range(a,b):
+b,d,=map(int,input().split())
+for i in range(b,d):
  y=i
  t=0
  u=0
