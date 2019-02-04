@@ -5,7 +5,7 @@ int main()
     scanf("%d",&a);
     for(b=1; b<=5; b++)
     {
-       printf("%d\t",a*b);
+       printf("%d ",a*b);
     }
   return 0;  
 }
