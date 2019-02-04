@@ -1,0 +1,12 @@
+a=int(input())
+y=a
+b=0
+while(y>0):
+    c=y%10
+    c=c*c*c
+    b=b+c
+    y=int(y/10)
+if(b==a):
+    print("yes")
+else:
+    print("no")
