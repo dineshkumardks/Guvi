@@ -12,7 +12,7 @@ for(l=j;l<k;l++)
 	count++;
 	}
 	if(count==0)
-	printf("%d\t",l);
+	printf("%d ",l);
 }
 return 0;
 }
