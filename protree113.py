@@ -4,6 +4,6 @@ for i in range(0,k):
     a,b=map(int,input().split())
     tmp=999999999
     for j in range(a-1,b):
-        if(l[j]<temp):
+        if(l[j]<tmp):
             tmp=l[j]
 print(tmp)        
