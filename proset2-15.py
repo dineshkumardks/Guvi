@@ -14,4 +14,4 @@ for i in range(0,nt):
     for j in range(len(t[i])-1,-1,-1):
         x=x+(int(t[i][j])*k)
         k=k*2
-print(x)
+    print(x)
