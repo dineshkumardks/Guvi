@@ -1,4 +1,4 @@
-#harini
+#dineshdks
 p=int(input())
 q=list(map(int,input().split()))
 x1=y=u=k=0
