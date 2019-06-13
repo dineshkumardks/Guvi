@@ -10,4 +10,4 @@ for i in range(0,b):
         s=s^m[j]
     tq.append(s)
 for i in range(0,len(tq)):
-print(tq[i])
+    print(tq[i])
