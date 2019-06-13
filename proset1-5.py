@@ -5,4 +5,4 @@ if x==224:
 elif x%(y+z)==0:
     print("YES")
 else:
-print("NO")
+    print("NO")
