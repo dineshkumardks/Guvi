@@ -24,4 +24,4 @@ for i in l:
       x = x//p
       c += 1
   print(c)
-c = 0
+  c = 0
